@@ -1,4 +1,4 @@
 # ATM-CPP-
 C++ code for an ATM program
-cout << endl;
+<br>
 Auther -Abbasi
